@@ -2,7 +2,7 @@
 Selamat datang di petunjuk penggunaan bot acinonyx
 
 Untuk menggunakan fitur ini diwajibkan untuk masuk ke dalam server discord kami dibawah ini
-###### [ACINONYX DISCORD SERVER](https://discord.gg/vMcMe8f)
+[![Discord](https://img.shields.io/discord/291247686777307137.svg?label=discord&colorB=7289DA)](https://discord.gg/vMcMe8f)
 
 ---
 
