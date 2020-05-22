@@ -9,4 +9,4 @@ Untuk menggunakan fitur ini diwajibkan untuk masuk ke dalam server discord kami 
 
 ### BUTUH BANTUAN?
 Silahkan hubungi akun discord
-###### [ACX] [NvStar] Agy Pascha#9110
+###### [NvStar] Agy Pascha#9110
